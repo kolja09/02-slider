@@ -87,3 +87,13 @@ span{
 span:last-child{
   margin-right: 0;
 }
+
+@media(max-width:540px){
+  .slider-wrapper{
+   height: 325px;
+  }
+  h1{
+    font-size: 33px;
+    padding-left: 10px;
+  }
+}
